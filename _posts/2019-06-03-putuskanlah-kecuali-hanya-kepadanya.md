@@ -2,7 +2,7 @@
 title:  "PUTUSKANLAH ! KECUALI HANYA KEPADA-NYA"
 metadate: "hide"
 categories: [Ilmu hikmah]
-image: "/firdaus/img/hikmah.jpg"
+image: "firdaus/img/hikmah.jpg"
 ---
 
 
