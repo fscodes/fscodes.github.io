@@ -1,10 +1,10 @@
 # Site
 name: 'Berita harian Bang firdaus'
 description: 'Catatan Portalnya bang firdaus Siregar.'
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'firdaus/logo.png'
+favicon: 'firdaus/logo.png'
 baseurl: ''
-avatar: 'assets/images/sal.jpg'
+avatar: 'firdaus/av.jpg'
 disqus: 'bgdaus'
 email: 'fsteamcyber@gmail.com'
 
