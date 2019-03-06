@@ -5,7 +5,7 @@ logo: 'firdaus/logo.png'
 favicon: 'firdaus/logo.png'
 baseurl: ''
 avatar: 'firdaus/av.jpg'
-disqus: 'bgdaus'
+disqus: 'fscodes'
 email: 'fsteamcyber@gmail.com'
 
 include: ["_pages"]
