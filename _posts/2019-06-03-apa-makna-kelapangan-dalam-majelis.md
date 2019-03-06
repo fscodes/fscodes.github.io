@@ -4,7 +4,7 @@ title:  "APA MAKNA KELAPANGAN DALAM MAJELIS"
 metadate: "hide"
 categories: [Ilmu hikmah]
 image: "/firdaus/img/hikmah1.jpg
-
+---
 
 Bismillah.
 Assalamu'alaikum.
