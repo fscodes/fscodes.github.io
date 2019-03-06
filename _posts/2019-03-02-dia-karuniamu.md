@@ -2,9 +2,10 @@
 layout: post
 title: "Dia karunia mu yang Terindah"
 date: 2019-03-02 22:43:23
-image: '/assets/img/linter/kutipan.png'
+image: 'firdaus/img/b.png'
 description:
-categories: Kutipan kisah
+categories: [kutipan kisah]
+author: firdaus siregar
 ---
 
 
