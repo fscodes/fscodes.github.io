@@ -1,10 +1,9 @@
 ---
-title:  "APA MAKNA KELAPANGAN DALAM MAJELIS"
+title:  "Apa makna kelapangan dalam majelis"
 metadate: "hide"
 categories: [Ilmu hikmah]
-image: "/firdaus/img/hikmah1.jpg
+image: "firdaus/img/nectaria.jpg"
 ---
-
 Bismillah.
 Assalamu'alaikum.
 
