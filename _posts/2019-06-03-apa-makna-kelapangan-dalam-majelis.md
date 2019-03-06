@@ -1,4 +1,3 @@
-
 ---
 title:  "APA MAKNA KELAPANGAN DALAM MAJELIS"
 metadate: "hide"
