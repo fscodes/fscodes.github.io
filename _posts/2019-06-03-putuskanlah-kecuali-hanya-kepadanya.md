@@ -3,6 +3,8 @@ title:  "PUTUSKANLAH ! KECUALI HANYA KEPADA-NYA"
 metadate: "hide"
 categories: [Ilmu hikmah]
 image: "firdaus/img/hikmah.jpg"
+date: 2019-03-06 20:12:12 
+author : firdaus siregar
 ---
 
 
