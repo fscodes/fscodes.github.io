@@ -2,7 +2,7 @@
 title:  "Apa makna kelapangan dalam majelis"
 metadate: "hide"
 categories: [Ilmu hikmah]
-image: "firdaus/img/nectaria.jpg"
+image: "firdaus/img/hikmah1.jpg"
 ---
 Bismillah.
 Assalamu'alaikum.
