@@ -3,6 +3,8 @@ title:  "Apa makna kelapangan dalam majelis"
 metadate: "hide"
 categories: [Ilmu hikmah]
 image: "firdaus/img/hikmah1.jpg"
+date: 2019-03-06 
+author : firdaus siregar
 ---
 Bismillah.
 Assalamu'alaikum.
